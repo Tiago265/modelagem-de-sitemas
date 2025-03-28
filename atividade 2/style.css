@@ -1,0 +1,81 @@
+html{
+
+    height: 100%;
+
+}
+
+body{
+
+    height: 100%;
+    margin: 0;
+    background-color: blue;
+
+}
+
+#container{
+
+    display: flex;
+    height: 100%;
+
+}
+
+#esquerda{
+
+    height: 100%;
+    width: 35%;
+
+}
+
+#direita{
+
+    height: 100%;
+    width: 65%;
+    background-image: url(imagens/02fundobear.png);
+
+
+}
+
+#direita-topo{
+
+    height: 30%;
+    width: 100%;
+
+}
+
+#direita-meio{
+
+    display: flex;
+    height: 40%;
+    width: 100%;
+
+}
+
+#direita-baixo{
+
+    height: 30%;
+    width: 100%;
+
+}
+
+
+#direita-meio-1{
+
+    height: 100%;
+    width: 30%;
+
+}
+
+#direita-meio-2{
+
+    height: 100%;
+    width: 40%;
+    background-color: white;
+
+}
+
+#direita-meio-3{
+
+    height: 100%;
+    width: 30%;
+
+}
